@@ -1,5 +1,11 @@
 # Robofriends Website
 
+![Project Image](https://raw.githubusercontent.com/Sapfirelove/robofriends/master/LandingPage.png)
+
+> Landing Page
+---
+
+
 ### Table of Contents
 You're sections headers will be used to reference location of destination.
 
